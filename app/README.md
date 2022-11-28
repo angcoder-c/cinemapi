@@ -1,4 +1,6 @@
- # Public
+ # Routes API
+ 
+ ## Public
 > Public routes accessible by `GET` method.
 
 - `/` : index route
@@ -43,7 +45,7 @@ Receives a json in the body of the message, with the necessary fields for user l
 }
 ```
 
-# Private
+## Private
 
 > Protected routes accessible by `GET` method.
 
