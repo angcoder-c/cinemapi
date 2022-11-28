@@ -12,7 +12,7 @@ $ git clone https://github.com/Angel-Gabriel-Chavez/cinemapi.git
 ```
 Create the virtual environment, and activate it.
 ```
-> cd flask-auth
+> cd cinemapi
 > python -m venv venv
 > venv\Scripts\activate.bat
 ```
