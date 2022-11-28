@@ -1,7 +1,7 @@
 from . import test_app_post_private
 import json
 
-def test_my_tickets_user():
+def test_buy_tickets_user():
     response_login = test_app_post_private.post("/login/", content_type='application/json', data=json.dumps({
         'password' : '123', 
         'email' : 'michael@email.com'
