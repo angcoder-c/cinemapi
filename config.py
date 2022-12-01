@@ -9,7 +9,7 @@ class Config:
     TESTING = True
     USER_DB='root'
     HOST_DB='localhost'
-    PASSWORD_DB= 'admin123T-60'
+    PASSWORD_DB= 'YOUR-PASSWORD'
     PROJECT_DIR = project_dir
     SQLALCHEMY_DATABASE_URI= f'mysql+pymysql://{USER_DB}:{PASSWORD_DB}@{HOST_DB}/cinemapi'
     SQLALCHEMY_TRACK_MODIFICATIONS = False
