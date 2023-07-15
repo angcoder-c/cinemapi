@@ -8,7 +8,7 @@ In this project I will use `MySQL` as a database administrator and it is recomme
 ## How to start?
 Clone the repository.
 ```
-$ git clone https://github.com/Angel-Gabriel-Chavez/cinemapi.git
+$ git clone https://github.com/angcoder-c/cinemapi.git
 ```
 Create the virtual environment, and activate it.
 ```
